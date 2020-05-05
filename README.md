@@ -7,4 +7,4 @@ Fuck xuexiqiangguo 学习强国助手安卓版
 最新安卓版一键学习工具，感受自动化带来的乐趣吧！
 
 
-![image](Fuck-xuexiqiangguo-android/images/xxqg.jpg)
+![image](https://github.com/numberone0001/Fuck-xuexiqiangguo-android/images/xxqg.jpg)
