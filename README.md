@@ -1,9 +1,8 @@
 下载地址：<br>
 ------------------
-<br>
 [谷歌商店](https://play.google.com/store/apps/details?id=cn.mkblog.www.mkbrowser)
 
-
+<br>
 
 Fuck xuexiqiangguo 学习强国助手安卓版
 1. 安装apk文件，打开软件
