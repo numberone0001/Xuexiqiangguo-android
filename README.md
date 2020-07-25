@@ -1,5 +1,5 @@
-谷歌商店下载地址：
-https://play.google.com/store/apps/details?id=cn.mkblog.www.mkbrowser
+下载地址：
+<a href="https://play.google.com/store/apps/details?id=cn.mkblog.www.mkbrowser"> 谷歌商店 </a>
 
 
 Fuck xuexiqiangguo 学习强国助手安卓版
